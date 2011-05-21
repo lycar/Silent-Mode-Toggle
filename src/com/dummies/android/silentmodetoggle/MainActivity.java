@@ -11,7 +11,6 @@ import android.widget.ImageView;
 
 public class MainActivity extends Activity {
     /** Called when the activity is first created. */
-	/** per provar si el github funciona */
 	private AudioManager mAudioManager;
 	private boolean mPhoneIsSilent;
 	
