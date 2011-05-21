@@ -10,7 +10,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 public class MainActivity extends Activity {
-    /** Called when the activity is first created. */
+    /** segona prova del github*/
+	/** Called when the activity is first created. */
 	private AudioManager mAudioManager;
 	private boolean mPhoneIsSilent;
 	
